@@ -10,11 +10,6 @@ I build fast, accessible interfaces with **Vue 3 (Composition API, Pinia, Vue Ro
 - 📫 Reach me: <email> · +351 912 875 342
 - 🌍 Languages: PT (native), EN (advanced), FR (beginner)
 
-## Featured Projects
-- **Admin Dashboard (Vue 3 + Pinia)** — CRUD + auth + reusable components · [Repo](https://github.com/<username>/admin-dashboard-vue) · [Live](https://<demo>)
-- **Catalog App (Vue Router)** — search, filters, pagination · [Repo](https://github.com/<username>/catalog-app-vue) · [Live](https://<demo>)
-- **Portfolio (Vue 3 + Tailwind)** — this site · [Repo](https://github.com/<username>/portfolio-vue) · [Live](https://<demo>)
-
 ## Stack
 ![Vue](https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-005?logo=typescript)
