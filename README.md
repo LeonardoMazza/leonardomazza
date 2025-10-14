@@ -1,16 +1,17 @@
 # Hi, I'm Leonardo 👋
 
-**Front-end Developer (Vue.js) — Espinho, Portugal**
+**Fullstack Developer (React, Vue.js / PHP Laravel) — Espinho, Portugal**
 
-I build fast, accessible interfaces with **Vue 3 (Composition API, Pinia, Vue Router)**, **TailwindCSS**, and integrations with **REST APIs (Laravel/PHP)**.
+I build fast, accessible interfaces with **React** and **Vue 3**, **TailwindCSS**, and integrations with **REST APIs (Laravel/PHP)**.
 
-- 🔭 Current focus: Front-end roles with **Vue.js**
-- ✨ Portfolio: <link>
-- 🧰 Tech: Vue 3, TypeScript, Pinia, Tailwind, Vite, Laravel/PHP
+- 🔭 Current focus: Fullstack roles with **React/Vue.js PHP Laravel**
+- ✨ Portfolio: leonardomazza.dev
+- 🧰 Tech: React, Vue 3, TypeScript, Pinia, Tailwind, Vite, Laravel/PHP and Learning Node.js
 - 📫 Reach me: <email> · +351 912 875 342
 - 🌍 Languages: PT (native), EN (advanced), FR (beginner)
 
 ## Stack
+![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=white)
 ![Vue](https://img.shields.io/badge/Vue-3-4FC08D?logo=vuedotjs&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-005?logo=typescript)
 ![Pinia](https://img.shields.io/badge/Pinia-ffd?logo=vue.js)
@@ -25,4 +26,4 @@ I build fast, accessible interfaces with **Vue 3 (Composition API, Pinia, Vue Ro
 - Good DX: CI, lint, formatting, and tests
 
 ---
-➜ **Open to Front-end Vue roles (remote EU or PT).** Let's chat!
+➜ **Open to Fullstack React/Vue PHP Laravel roles (remote EU or PT).** Let's chat!
